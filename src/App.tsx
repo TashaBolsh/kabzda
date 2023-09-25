@@ -1,14 +1,21 @@
-import React, {useState} from 'react';
-import './App.css';
-import Test from "./Test";
-
+import React from 'react'
+import {Accordion} from "./components/Accordion/Accordion";
+import {Rating} from "./components/Rating/Rating";
 
 function App() {
+    return (
+        <div>
+            <AppTitle/>
+            <Rating/>
+            <Accordion/>
+            <Rating/>
+        </div>
+    )
+}
 
-		return (
-			<div className="App">
-		<Test/>
-			</div>
-		);
-	}
-export default App;
+function AppTitle() {
+console.log("AppTitle rendering")
+    return <>This is APP component</>
+}
+
+export default App

@@ -1,13 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9243e1-4100-496a-950e-6826f80f43db" name="Changes" comment="" />
+    <list default="true" id="0699f239-e7de-4866-988b-f1575b38e89f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/s1-main/Select/Select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../src.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s1-main/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/s1-main/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/HW1.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/friend-message/FriendMessage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/friend-message/FriendMessage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/message-sender/MessageSender.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/message-sender/MessageSender.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/message/Message.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw01/message/Message.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/HW2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/affairs/Affairs.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/affairs/Affairs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/affairs/affair/Affair.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/affairs/affair/Affair.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/tests/deleteAffair.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw02/tests/filterAffairs.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/Greeting.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/Greeting.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/GreetingContainer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/HW3.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/tests/pureAddUser.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/tests/pureAddUserCallback.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/tests/pureOnBlur.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw03/tests/pureOnEnter.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/HW4.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/Stand.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/Stand.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c1-SuperInputText/SuperInputText.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c1-SuperInputText/SuperInputText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c2-SuperButton/SuperButton.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c2-SuperButton/SuperButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c3-SuperCheckbox/SuperCheckbox.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c3-SuperCheckbox/SuperCheckbox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c3-SuperCheckbox/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw04/common/c3-SuperCheckbox/checked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/HW5.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/Pages.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/header/Header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/header/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/header/burger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/layout/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/pages/404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/pages/Error404.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/pages/Error404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/pages/Junior.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/pages/JuniorPlus.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/pages/PreJunior.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/sidebar/Sidebar.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/sidebar/Sidebar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw05/sidebar/closeOutline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw06/HW6.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw06/HW6.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw06/common/c4-SuperEditableSpan/SuperEditableSpan.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw06/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw06/common/c4-SuperEditableSpan/editIcon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw06/localStorage/localStorage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/HW7.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/HW7.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/common/c5-SuperSelect/SuperSelect.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/common/c5-SuperSelect/SuperSelect.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/common/c5-SuperSelect/chevron-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/common/c6-SuperRadio/SuperRadio.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw07/common/c6-SuperRadio/SuperRadio.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw08/HW8.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw08/HW8.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw08/User.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw08/bll/homeWorkReducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw08/bll/tests/homeWorkReducer.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw09/Clock.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw09/Clock.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw09/HW9.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw10/HW10.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw10/Loader.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw10/Loader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw10/bll/loadingReducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw10/bll/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw11/HW11.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw11/HW11.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw11/common/c7-SuperRange/SuperRange.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw12/HW12.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw12/HW12.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw12/bll/themeReducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw13/HW13.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw13/HW13.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw13/images/200.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw13/images/400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw13/images/500.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw13/images/error.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw14/HW14.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw14/HW14.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw14/common/c8-SuperDebouncedInput/SuperDebouncedInput.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw15/HW15.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw15/HW15.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw15/common/c10-SuperSort/SuperSort.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw15/common/c10-SuperSort/test/pureChange.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw15/common/c9-SuperPagination/SuperPagination.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2-homeworks/hw15/common/c9-SuperPagination/SuperPagination.tsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2QHKSWERctZ8jlN2gDZWdtx8PIH" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VOgAzysXWClkoKjJ2WRhzusPA7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,23 +131,34 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/it-incubator/1-todolist",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b9243e1-4100-496a-950e-6826f80f43db" name="Changes" comment="" />
-      <created>1685005067332</created>
+      <changelist id="0699f239-e7de-4866-988b-f1575b38e89f" name="Changes" comment="" />
+      <created>1694712409240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685005067332</updated>
-      <workItem from="1685005068533" duration="25000" />
+      <updated>1694712409240</updated>
+      <workItem from="1694712425572" duration="3107000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
