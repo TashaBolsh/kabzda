@@ -1,11 +1,21 @@
 import React from 'react'
 import {Accordion} from "./components/Accordion/Accordion";
 import {Rating} from "./components/Rating/Rating";
+import OnOff from "./components/OnOff/OnOff";
+import {UncontrolledAccordion} from "./components/Accordion/SelfControlledAccordion";
+import {Menu} from "@mui/material";
 
 function App() {
     console.log("App rendering")
     return (
         <div>
+            <OnOff />
+            <OnOff />
+            <OnOff />
+            <OnOff />
+            <UncontrolledAccordion collapsed={true} titleValue={"Menu"}/>
+            <UncontrolledAccordion collapsed={true} titleValue={"Users"}/>
+            {/*
             <PageTitle title={"This is APP component"}/>
             <PageTitle title={"My friends"}/>
             Article 1
@@ -18,7 +28,7 @@ function App() {
             <Rating value={2} />
             <Rating value={3} />
             <Rating value={4} />
-            <Rating value={5} />
+            <Rating value={5} />*/}
         </div>
     );
 }
