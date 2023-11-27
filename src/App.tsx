@@ -2,8 +2,9 @@ import React from 'react'
 import {Accordion} from "./components/Accordion/Accordion";
 import {Rating} from "./components/Rating/Rating";
 import OnOff from "./components/OnOff/OnOff";
-import {UncontrolledAccordion} from "./components/Accordion/SelfControlledAccordion";
+import {UncontrolledAccordion} from "./components/UncontrolledAccordion/Accordion";
 import {Menu} from "@mui/material";
+import {UncontrolledRating} from "./components/UncontrolledRating";
 
 function App() {
     console.log("App rendering")
@@ -13,8 +14,11 @@ function App() {
             <OnOff />
             <OnOff />
             <OnOff />
-            <UncontrolledAccordion collapsed={true} titleValue={"Menu"}/>
-            <UncontrolledAccordion collapsed={true} titleValue={"Users"}/>
+            <UncontrolledAccordion titleValue={"Menu"}/>
+            <UncontrolledAccordion titleValue={"Users"}/>
+
+            <UncontrolledRating value={5} />
+            <Rating value={2} />
             {/*
             <PageTitle title={"This is APP component"}/>
             <PageTitle title={"My friends"}/>
